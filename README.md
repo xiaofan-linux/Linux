@@ -1,3 +1,18 @@
+# Linux
+
+## 初衷(Original Intention)
+
+- 整理下自己所学
+- 带动更多的人进入 Linux 世界
+- **学得越多越是明白一个人的力量是不够的，我只是起了一个引子，希望你能一起参与，真心希望！！！（鞠躬）**
+
+
+- #### <font color=3838bode>I won everyone, but I lost you.我输了所有，也要赢了你 !</font>
+
+## 目录(Contents)
+
+
+
 # Docker
 
 * [Docker](docker/README.md)
