@@ -1,8 +1,8 @@
 # Docker
 
-* [Docker](docker/docker简介.md)
+* [Docker](/docker简介.md)
 
-  * [Docker简介](docker/docker简介.md)
-  * [Docker安装和使用](docker/docker安装和使用.md)
-  * [Docker常用命令](docker/docker常用命令.md)
-  * [Dockerfile](docker/dockerfile.md)
+  * [Docker简介](/docker简介.md)
+  * [Docker安装和使用](/docker安装和使用.md)
+  * [Docker常用命令](/docker常用命令.md)
+  * [Dockerfile](/dockerfile.md)
