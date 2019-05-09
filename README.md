@@ -21,7 +21,7 @@
 **Kubernetes(k8s)是Google开源的容器集群管理系统（谷歌内部:Borg）**
 
 
-* [Kubernetes](Kubernetes/README.md)
+* [Kubernetes](kubernetes/README.md)
 
 # Linux基础
 
