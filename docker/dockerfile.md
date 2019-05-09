@@ -23,7 +23,8 @@ Dockerfile 中的命令非常类似于 Linux 下的 Shell 命令。
 
 - 下面是一段简单的 Dockerfile 的例子：
   ```shell
-    FROM python:2.7MAINTAINER Angel_Kitty <angelkitty6698@gmail.com>COPY . /app
+    FROM python:2.7
+    MAINTAINER Angel_Kitty <angelkitty6698@gmail.com>COPY . /app
     WORKDIR /app
     RUN pip install -r requirements.txt
     EXPOSE 5000ENTRYPOINT ["python"]CMD ["app.py"]
