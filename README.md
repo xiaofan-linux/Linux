@@ -26,6 +26,8 @@
 # Linux基础
 
 * [Linux系统管理01](Linux基础/Linux系统管理01.md)
+* [Linux系统管理02](Linux基础/Linux系统管理02.md)
+
 
 # Linux服务
 

@@ -161,6 +161,8 @@
     sudo chown $(id -u):$(id -g) $HOME/.kube/config
     # 查看Master是否部署成功(如果DNS不是running，属于正常，部署完网络插件就正常了)
     kubectl get pods -n kube-system
+    # kubernetes命令使用
+    http://docs.kubernetes.org.cn/683.html
     ```
 - 8. 配置使用网络插件
    ```shell
