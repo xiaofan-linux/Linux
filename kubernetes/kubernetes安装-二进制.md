@@ -490,7 +490,7 @@
   ```
   ```shell
   # 生成apiserver证书
-  [root@master ssl]# cfssl gencert -ca=ca.pem -ca-key=ca-key.pem -config=ca-config.json -profile=kubernetes server-csr.json | cfssljson -bare server
+  [root@master ssl]# cfssl gencert -ca=ca.pem -ca-key=ca-key.pem -config=ca-config.json -profile=kubernetes server-csr.json | cfssljson -bare kubernetes
   2018/12/27 09:51:56 [INFO] generate received request
   2018/12/27 09:51:56 [INFO] received CSR
   2018/12/27 09:51:56 [INFO] generating key: rsa-2048
