@@ -7,4 +7,4 @@
     NNTP（Network News Transport Protocol），中文释义：（RFC-977）网络新闻传输协议。这是一个主要用于阅读和发布新闻文章(俗称为“帖子”，比较正式的名字是 “新闻组邮件”)到Usenet上的Internet应用协议，也负责新闻在服务器间的传送。
 ###NTP运行模式
 ####C/S模式
-![](/NTP/image/1.png)
+![](NTP/image/1.png)
