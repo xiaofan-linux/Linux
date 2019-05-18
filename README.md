@@ -25,11 +25,22 @@
 
 # Linux基础
 
+* [Linux开机启动流程](Linux基础/Linux开机启动流程.md)
 * [Linux系统管理01](Linux基础/Linux系统管理01.md)
 * [Linux系统管理02](Linux基础/Linux系统管理02.md)
 
 
 # Linux服务
+
+* [kEEPALIVED](Linux服务/Keepalibed/keepalibed原理.md)
+
+  * [kEEPALIVED原理](Linux服务/Keepalibed/keepalibed原理.md)
+
+* [LVS](Linux服务/LVS/lvs简介.md)
+
+  * [LVS简介](Linux服务/LVS/lvs简介.md)
+  * [LVS原理](Linux服务/LVS/lvs原理.md)
+
 
 * [DHCP](Linux服务/DHCP/jianjie.md)
 
@@ -108,3 +119,9 @@
   * [IPTABLES安装](Linux服务/iptables/安装.md)
   * [IPTABLES命令](Linux服务/iptables/命令.md)
   * [IPTABLES扩展模块](Linux服务/iptables/扩展模块.md)
+
+* 监控
+
+  * [ZABBIX原理](Monitor/zabbix原理.md)
+  * [NAGIOS原理](Monitor/nagios原理.md)
+  * [CACTI原理](Monitor/cacti原理.md)
